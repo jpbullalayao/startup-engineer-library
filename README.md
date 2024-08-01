@@ -4,6 +4,8 @@ Welcome to the Start-up Engineer Library!
 
 This repository is a compilation of the highest quality engineering, start-up, and product resources that I have found during my career as an engineer building start-ups. The goal of this library is to share knowledge that you might find invaluable as you grow in your career as a software engineer working in start-ups - whether your goal is to grow and succeed in your current role or build your own start-up someday.
 
+This content of this library is primarily focused on tactical insight and advice from start-up founders, engineers, and product managers that will enable you to reflect and take action towards your individual goals.
+
 If you enjoy the content in this library, please star, watch, and share the repo with someone else who might also enjoy and find it useful. I will continue to vet and add more resources regularly.
 
 ## Start-ups
