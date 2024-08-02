@@ -14,6 +14,7 @@ If you enjoy the content in this library, please star, watch, and share the repo
 - [How to Start a Startup](https://www.youtube.com/watch?v=CBYhVcO4WgI) (Sam Altman, Dustin Moskovitz)
 - [How to Succeed with a Startup](https://www.youtube.com/watch?v=0lJKucu6HJc) (Sam Altman)
 - [Team and Execution](https://www.youtube.com/watch?v=CVfnkM44Urs) (Sam Altman)
+- [Tips for Technical Startup Founders](https://www.youtube.com/watch?v=rP7bpYsfa6Q) (Diana Hu)
 - [How to Operate](https://www.youtube.com/watch?v=6fQHLK1aIBs) (Keith Rabois)
 - [How to Manage](https://www.youtube.com/watch?v=uVhTvQXfibU) (Ben Horowitz)
 - [How to Do Great Work](https://paulgraham.com/greatwork.html) (Paul Graham)
