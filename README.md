@@ -1,4 +1,4 @@
-# Start-up Engineer Library
+# Start-up Engineer Library 📚
 
 Welcome to the Start-up Engineer Library!
 
