@@ -10,7 +10,7 @@ If you enjoy the content in this library, please star, watch, and share the repo
 
 ## Start-ups
 
-- [Before the Startup](https://paulgraham.com/before.html)
+- [Before the Startup](https://paulgraham.com/before.html) (Paul Graham)
 - [How to Start a Startup](https://www.youtube.com/watch?v=CBYhVcO4WgI) (Sam Altman, Dustin Moskovitz)
 - [How to Succeed with a Startup](https://www.youtube.com/watch?v=0lJKucu6HJc) (Sam Altman)
 - [Team and Execution](https://www.youtube.com/watch?v=CVfnkM44Urs) (Sam Altman)
